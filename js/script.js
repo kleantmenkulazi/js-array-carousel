@@ -21,7 +21,7 @@ for (let i = 0; i < images.length; i++) {
     }
 }
 
-// Milestone 2
+// Milestone 2 + 3
 
 let currentlyActiveImg = 1;
 
